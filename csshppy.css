@@ -1,9 +1,0 @@
-l/* Hubungkan ke Google Fonts di bagian atas sebelum tag <style> */
-@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@700&display=swap');
-
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    font-family: 'Fredoka', 'Arial Rounded MT Bold', sans-serif;
-}
